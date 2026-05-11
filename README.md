@@ -1,2 +1,2 @@
 # RAG-Agent-with-Langchain
-A short Langchain project that takes a list of ingredients from the user and returns some recipes. It uses the Google Gemini model to create the agent and DuckDuckGoSearchRun from Langchain community tools as a web search tool. Make sure to use your own Gemini API key in the .env file as the existing key doesn't work.
+A simple RAG agent created using Langchain, Google Genai LLM, and Gemini's embedding model. The agent can take a PDF document and answer any related questions a user might have.  Make sure to use your own Gemini API key in the .env file.
